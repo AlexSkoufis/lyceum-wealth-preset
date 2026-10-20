@@ -1,0 +1,371 @@
+{
+  "hero": {
+    "eyebrow": "Financial planning in Madison, Wisconsin",
+    "title": [
+      {
+        "text": "Freedom.",
+        "style": "plain"
+      },
+      {
+        "text": "Purpose.",
+        "style": "italic"
+      },
+      {
+        "text": "Legacy.",
+        "style": "outline"
+      }
+    ],
+    "lead": "We help wealth creators and their families build one clear, coordinated financial plan, keep it current as life changes, and put their resources to work for the people and causes they care about.",
+    "primary": {
+      "label": "Schedule an introductory call",
+      "href": "#contact"
+    },
+    "secondary": {
+      "label": "See how we work",
+      "href": "#process"
+    },
+    "ring": "Freedom · Purpose · Legacy · Lyceum Wealth Management · ",
+    "facts": [
+      {
+        "label": "CFP® professional",
+        "text": "Led by Elliot Marsh, MBA, CFP®"
+      },
+      {
+        "label": "Five disciplines",
+        "text": "Planned together, not in silos"
+      },
+      {
+        "label": "Local to Madison",
+        "text": "Meet in person on Capitol Square"
+      }
+    ],
+    "scrollHint": "Scroll to explore"
+  },
+  "marquee": [
+    "Investments",
+    "Banking & cash flow",
+    "Tax planning",
+    "Insurance",
+    "Estate planning",
+    "Retirement",
+    "Education planning",
+    "Philanthropy"
+  ],
+  "statement": {
+    "eyebrow": "What we do",
+    "text": "Successful people tend to ask the same question: am I doing what I need to be doing? Our work is to help you answer it with a confident yes, and then help you decide what comes next.",
+    "pillars": [
+      {
+        "num": "01",
+        "title": "One coordinated plan",
+        "text": "Your investments, banking, insurance, taxes and estate plan are reviewed together, so every decision supports the outcomes that matter most to you."
+      },
+      {
+        "num": "02",
+        "title": "Reviewed on a schedule",
+        "text": "Regularly scheduled conversations surface the actions your plan needs as your career, family and the markets change, so you always know the next step."
+      },
+      {
+        "num": "03",
+        "title": "Wealth with a purpose",
+        "text": "Once the foundations are secure, we help you connect your resources to your values, from how you live today to what you leave for your family and community."
+      }
+    ]
+  },
+  "disciplines": {
+    "eyebrow": "The five disciplines",
+    "title": "Five disciplines. One plan holding them together.",
+    "lead": "Most people handle these areas separately, with different people and no shared goal. We plan them as one structure, built on history, analysis and research, with your goals at the top.",
+    "hint": "Point to or tap a discipline to light its column",
+    "image": {
+      "alt": "Line drawing of a classical temple. Five columns labeled cash flow, investments, tax planning, insurance and estate planning hold up a roof labeled goals and minimum outcomes, standing on a base of history, analysis and research."
+    },
+    "items": [
+      {
+        "name": "Cash flow & banking",
+        "text": "A clear view of what comes in, what goes out and where the margin should go, so saving happens by design.",
+        "x": 22
+      },
+      {
+        "name": "Investments",
+        "text": "Portfolios built around the goals and timelines in your plan, not around the headlines of the week.",
+        "x": 36
+      },
+      {
+        "name": "Tax planning",
+        "text": "Saving, investing and giving decisions made with their tax impact in view, coordinated with your tax professional.",
+        "x": 50
+      },
+      {
+        "name": "Insurance",
+        "text": "Coverage reviewed against what your family and business would actually need, so one setback does not undo the plan.",
+        "x": 64
+      },
+      {
+        "name": "Estate planning",
+        "text": "Guidance on how your wealth is held and passed on, working alongside your attorney to keep documents and intentions aligned.",
+        "x": 78
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "The Lyceum Process",
+    "title": "Straightforward guidance in three stages.",
+    "lead": "Every client relationship follows the same path. Where you begin depends on where you are today.",
+    "stages": [
+      {
+        "key": "freedom",
+        "num": "I",
+        "name": "Freedom",
+        "headline": "Protect your time and your resources.",
+        "text": [
+          "We work with you to build a proactively managed plan that supports your most important financial outcomes, such as retirement and education.",
+          "Through a systematic review process and regularly scheduled conversations, we uncover the actions your plan needs as things change across all five disciplines."
+        ],
+        "points": [
+          "A coordinated written plan",
+          "Scheduled reviews",
+          "Clear next actions"
+        ],
+        "image": {
+          "etching": "temple",
+          "labels": [
+            "Cash flow",
+            "Investments",
+            "Tax",
+            "Insurance",
+            "Estate"
+          ],
+          "alt": "Line drawing of a classical temple whose five columns represent the five disciplines of planning."
+        }
+      },
+      {
+        "key": "purpose",
+        "num": "II",
+        "name": "Purpose",
+        "headline": "Move from managing wealth to using it well.",
+        "text": [
+          "Once long term goals are on track, many clients ask: what's next?",
+          "The Purpose stage takes you from wealth management to wealth utilization. It reconnects your resources with your values, so your wealth helps you live well today and tomorrow."
+        ],
+        "points": [
+          "Values based priorities",
+          "Spending with intention",
+          "Life goals, not just numbers"
+        ],
+        "image": {
+          "etching": "cups",
+          "labels": [
+            "Value of labor",
+            "Savings",
+            "Quality of life"
+          ],
+          "alt": "Line drawing of three goblets pouring into one another, labeled value of labor, savings and quality of life."
+        }
+      },
+      {
+        "key": "legacy",
+        "num": "III",
+        "name": "Legacy",
+        "headline": "Make an impact that outlasts you.",
+        "text": [
+          "Many of our clients want their wealth to improve the lives of others, but choosing where to invest in that impact, and through which vehicles, can be hard to navigate.",
+          "The Legacy stage guides you as you put your resources to work for family and philanthropic ventures."
+        ],
+        "points": [
+          "Family capital",
+          "Philanthropic ventures",
+          "Preparing the next generation"
+        ],
+        "image": {
+          "etching": "tree",
+          "labels": [
+            "Family capital",
+            "Family bank",
+            "Ventures"
+          ],
+          "alt": "Line drawing of an oak tree. The roots are labeled family capital, the trunk family bank and the canopy ventures."
+        }
+      }
+    ]
+  },
+  "audiences": {
+    "eyebrow": "Who we serve",
+    "title": "Built for people who are building something.",
+    "lead": "Our clients are at different points in life, but they share a sense of responsibility for what they have and for the people who come after them.",
+    "questionLabel": "The question on your mind",
+    "items": [
+      {
+        "num": "01",
+        "name": "First generation wealth creators",
+        "question": "Am I doing what I need to be doing?",
+        "text": "You have taken responsibility and worked hard to get where you are. We make sure the answer to that question is yes, then help you with the one that follows: so what's next?"
+      },
+      {
+        "num": "02",
+        "name": "Next generation family leaders",
+        "question": "How do I carry this forward?",
+        "text": "As a family grows with each generation, ownership becomes more complex. We help you understand and fulfill the role you have been called to play in your family's continued prosperity."
+      },
+      {
+        "num": "03",
+        "name": "Entrepreneurs",
+        "question": "Does my business plan provide for my family?",
+        "text": "You may not fit inside the box, and to you wealth is the value you create, not a number on a statement. We help you build a plan for your business that also provides for your family."
+      },
+      {
+        "num": "04",
+        "name": "Emerging leaders",
+        "question": "How do I make the most of my trajectory?",
+        "text": "You may not own a business or come from money, but you have trajectory and you are eager to invest in yourself. We help you understand the value you create and build a plan to grow it."
+      }
+    ],
+    "cta": {
+      "text": "Recognize yourself here?",
+      "label": "Start with a conversation",
+      "href": "#contact"
+    }
+  },
+  "team": {
+    "eyebrow": "Who we are",
+    "title": "A practice with a coach at its heart.",
+    "quote": "Elliot's planning philosophy grew out of years of coaching, and that habit of patient, practical encouragement is still the heart of the practice.",
+    "lead": {
+      "name": "Elliot Marsh, MBA, CFP®",
+      "initials": "EM",
+      "role": "Founder & Financial Advisor",
+      "bio": [
+        "Elliot grew up in southern Wisconsin, studied economics at a state university and earned his MBA while working in corporate finance. He is a CERTIFIED FINANCIAL PLANNER™ professional and a committed lifelong learner.",
+        "He coached high school cross-country for a decade and serves on the boards of a community foundation and a youth mentoring program."
+      ],
+      "credentials": [
+        "CFP® professional",
+        "MBA",
+        "Cross-country coach",
+        "Madison local"
+      ]
+    },
+    "member": {
+      "name": "Sofia Brennan",
+      "initials": "SB",
+      "role": "Client Operations",
+      "bio": "Sofia holds degrees in human resources and economics, graduating with honors. She makes sure every client feels known, from the first call to the annual review."
+    }
+  },
+  "start": {
+    "eyebrow": "Getting started",
+    "title": "Three steps to a clear plan.",
+    "steps": [
+      {
+        "num": "1",
+        "title": "An introductory conversation",
+        "text": "Tell us where you are, what you are working toward and the questions on your mind. We will tell you honestly whether we are the right fit."
+      },
+      {
+        "num": "2",
+        "title": "Your Freedom plan",
+        "text": "We review all five disciplines together and build a coordinated plan with clear, prioritized next steps."
+      },
+      {
+        "num": "3",
+        "title": "Ongoing reviews",
+        "text": "Regularly scheduled conversations keep the plan current and open the door to the Purpose and Legacy stages when you are ready."
+      }
+    ],
+    "cta": {
+      "label": "Book your introductory call",
+      "href": "#contact"
+    }
+  },
+  "insights": {
+    "eyebrow": "Insights",
+    "title": "Ideas worth a few minutes of your time.",
+    "all": {
+      "label": "View all insights",
+      "href": "#"
+    },
+    "readLabel": "Read article",
+    "posts": [
+      {
+        "title": "Lyceum Autumn Letter 2026",
+        "date": "2026-10-01",
+        "dateLabel": "Oct 1, 2026",
+        "tag": "Newsletter",
+        "href": "#",
+        "image": {
+          "src": "/images/post-letter.webp",
+          "width": 900,
+          "height": 575,
+          "alt": ""
+        }
+      },
+      {
+        "title": "Your Most Valuable Asset Is You",
+        "date": "2026-08-14",
+        "dateLabel": "Aug 14, 2026",
+        "tag": "5 min read",
+        "href": "#",
+        "image": {
+          "src": "/images/post-human-capital.webp",
+          "width": 720,
+          "height": 864,
+          "alt": ""
+        }
+      },
+      {
+        "title": "Two Careers, One Plan: What Dual-Income Couples Get Wrong",
+        "date": "2026-06-20",
+        "dateLabel": "Jun 20, 2026",
+        "tag": "4 min read",
+        "href": "#",
+        "image": {
+          "src": "/images/post-two-careers.webp",
+          "width": 720,
+          "height": 1280,
+          "alt": ""
+        }
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Let's talk",
+    "title": "Start with a conversation about what’s next.",
+    "lead": "Tell us a little about yourself and we will be in touch to arrange a time to talk. Prefer the phone? We are happy to hear from you.",
+    "image": {
+      "src": "/images/contact-dusk.webp",
+      "width": 2000,
+      "height": 1333,
+      "alt": ""
+    },
+    "direct": {
+      "callLabel": "Call",
+      "emailLabel": "Email",
+      "visitLabel": "Visit"
+    },
+    "form": {
+      "title": "Request an introductory call",
+      "fields": {
+        "name": "Full name",
+        "email": "Email",
+        "phone": "Phone (optional)",
+        "audience": "Which best describes you?",
+        "audiencePlaceholder": "Choose one",
+        "audienceOptions": [
+          "First generation wealth creator",
+          "Next generation family leader",
+          "Entrepreneur",
+          "Emerging leader",
+          "Something else"
+        ],
+        "message": "What would you like to talk about?"
+      },
+      "submit": "Send request",
+      "subject": "Introductory call request",
+      "privacyNote": "Please do not include account numbers or other sensitive information.",
+      "mailNote": "Sending opens your email app with your request ready to go.",
+      "success": "Your email app should now be open with your request. If it did not open, email us at hello@lyceum.example.",
+      "required": "Please fill in your name and email."
+    },
+    "statesNote": "Placeholder: a real firm lists the states its representatives are registered in here."
+  }
+}
